@@ -1,3 +1,1 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about anything that comes to mind.
+I hope for this to become a space where I catalog interesting ideas and code snippets that I want to preserve.
